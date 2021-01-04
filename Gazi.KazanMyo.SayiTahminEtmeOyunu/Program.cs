@@ -10,7 +10,7 @@ namespace Gazi.KazanMyo.SayiTahminEtmeOyunu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Zorluk Seviyesi: ");
+            Console.WriteLine("Zorluk Seviyesi Seçin\n -Kolay\n -Normal\n -Zor: ");
             string zorluk = Console.ReadLine().ToLower();
 
             if (zorluk == "kolay")
