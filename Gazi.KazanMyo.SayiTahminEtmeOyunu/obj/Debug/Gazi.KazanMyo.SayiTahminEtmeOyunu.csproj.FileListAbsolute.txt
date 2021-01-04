@@ -1,0 +1,7 @@
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\obj\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.csprojAssemblyReference.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\obj\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\bin\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.exe.config
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\bin\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\bin\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.pdb
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\obj\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.SayiTahminEtmeOyunu\Gazi.KazanMyo.SayiTahminEtmeOyunu\obj\Debug\Gazi.KazanMyo.SayiTahminEtmeOyunu.pdb
