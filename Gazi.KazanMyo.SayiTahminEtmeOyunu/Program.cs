@@ -10,7 +10,7 @@ namespace Gazi.KazanMyo.SayiTahminEtmeOyunu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Zorluk Seviyesi Seçin\n -Kolay\n -Normal\n -Zor: ");
+            Console.WriteLine("Zorluk Seviyesi Seçin?\n -Kolay\n -Normal\n -Zor: ");
             string zorluk = Console.ReadLine().ToLower();
 
             if (zorluk == "kolay")
@@ -27,7 +27,7 @@ namespace Gazi.KazanMyo.SayiTahminEtmeOyunu
                         Console.WriteLine("Tebrikler, başardınız!");
                         break;
                     }
-                    else if (sayi != tahmin && i <= 15)
+                    else if (sayi != tahmin && i < 14)
                     {
                         Console.WriteLine("Daha hakkınız bulunmakta, lütfen tahmin etmeye devam edin");
                     }
@@ -51,7 +51,7 @@ namespace Gazi.KazanMyo.SayiTahminEtmeOyunu
                         Console.WriteLine("Tebrikler, başardınız!");
                         break;
                     }
-                    else if (sayi != tahmin && i <= 10)
+                    else if (sayi != tahmin && i < 9)
                     {
                         Console.WriteLine("Daha hakkınız bulunmakta, lütfen tahmin etmeye devam edin");
                     }
@@ -75,7 +75,7 @@ namespace Gazi.KazanMyo.SayiTahminEtmeOyunu
                         Console.WriteLine("Tebrikler, başardınız!");
                         break;
                     }
-                    else if (sayi != tahmin && i <= 5)
+                    else if (sayi != tahmin && i < 4)
                     {
                         Console.WriteLine("Daha hakkınız bulunmakta, lütfen tahmin etmeye devam edin");
                     }
